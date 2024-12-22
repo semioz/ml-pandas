@@ -1,3 +1,4 @@
 .DS_Store
 node_modules
-classification/datasets
+datasets
+*.png
